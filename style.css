@@ -73,3 +73,9 @@ label {
   display: inline;
   color: red;
 }
+
+.found {
+  outline: 5px solid #4CAF50;
+  transform: scale(1.02);
+  box-shadow: 0 0 10px #4CAF50;
+}
